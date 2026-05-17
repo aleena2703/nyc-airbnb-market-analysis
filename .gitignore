@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+
+outputs/airbnb_feature_engineered.csv
+outputs/cleaned_airbnb_data.csv
